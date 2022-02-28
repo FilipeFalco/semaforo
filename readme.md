@@ -1,8 +1,9 @@
 # Desafio de acriação de um semaforo do curso React JS - Dominando o Frontend
 
-<center>
-  <img style="margin: 0 auto;" src="./images/semaforo.png">
-</center>
+<p align="center">
+  <img src="./images/semaforo.png">
+</p>
+
 ## Tecnologias:
 
 - Typescript
